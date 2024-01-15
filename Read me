@@ -1,4 +1,5 @@
-Hey this is Warren!
-I made this for write ups of labs
-I will demonstrate my network skills
-Lets get started!!
+Lab 1
+OSPF has been created between 4 router R1 - R4
+OSPF Area 0 
+192.168.1.0 - 198.168.4.0
+255.255.255.252
